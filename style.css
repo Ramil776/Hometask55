@@ -1,0 +1,24 @@
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+input[type="text"] {
+    width: 100px;
+}
+button {
+    padding: 5px 10px;
+    margin: 5px;
+
+}
+.silbutton{
+    background-color: red;
+}
+.hidden {
+    display: none;
+}
